@@ -25,7 +25,11 @@ This app enables real-time conversations with an advanced LLM through a clean an
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+<p align="center">
+  <img src="llm-explanation.jpeg" width="250"/>
+  <img src="rest-vs-websocket.jpeg" width="250"/>
+  <img src="kotlin-code-example.jpeg" width="250"/>
+</p>
 
 
 ## 🔐 Security
